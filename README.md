@@ -15,8 +15,11 @@ Seal World é um site interativo que celebra a vida das focas! Com imagens vibra
 
 
 🔧 Tecnologias Utilizadas
+
 HTML5
+
 CSS3
+
 Fontes do Google
 
 
