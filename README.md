@@ -33,4 +33,5 @@ Clone o repositório: git clone https://github.com/seu-usuario/nome-do-repositor
 
 ![Captura de tela 2025-03-02 001059](https://github.com/user-attachments/assets/a9434545-4b66-46fa-87a8-299cc6cd8be3)
 
-![Captura de tela 2025-03-02 001106](https://github.com/user-attachments/assets/6cfc6733-33e0-49a0-a776-280e826a45a0)
+![Captura de tela 2025-03-02 004221](https://github.com/user-attachments/assets/aa8f31d4-ee56-408c-97b7-3e4dd296b3c5)
+
