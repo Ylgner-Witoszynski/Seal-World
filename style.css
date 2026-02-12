@@ -150,3 +150,63 @@ footer {
     padding: 2rem;
     text-align: center;
 }
+
+@media (max-width: 900px) {
+    .hero__title {
+        font-size: 4rem;
+    }
+
+    .section {
+        padding: 0 4rem;
+    }
+
+    .section__img-inline {
+        float: none;
+        height: auto;
+        margin: 0 0 2rem 0;
+        width: 100%;
+    }
+
+    .section__text-inline {
+        margin-top: 0;
+        text-align: center;
+    }
+}
+
+@media (max-width: 600px) {
+    .hero__foreground {
+        padding-top: 30vh;
+    }
+
+    .hero__title {
+        font-size: 3rem;
+    }
+
+    .hero__text {
+        letter-spacing: 0.2rem;
+    }
+
+    .section__title {
+        font-size: 2.5rem;
+        margin: 2rem auto;
+    }
+
+    .section {
+        padding: 0 1.5rem;
+    }
+
+    .gallery__img-wrapper {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .gallery__img-wrapper + .gallery__img-wrapper {
+        margin-left: auto;
+        margin-top: 2rem;
+    }
+
+    .gallery__img {
+        height: auto;
+        max-width: 100%;
+    }
+}
